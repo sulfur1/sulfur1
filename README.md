@@ -13,7 +13,7 @@
 </div>
 <div style="width: 10%; height: 35px;">
 sulfur1917@gmail.com
-<img src="resources/gmail.png"/>
+<img src="resources/gmail.png" role="img"/>
 </div>
 </div>
 <br>
