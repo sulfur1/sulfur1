@@ -9,11 +9,11 @@
 <div align="center">
 Связаться со мной:
 <div style="width: 10%; height: 35px; border-inline-color: aliceblue;">
-<a href="https://t.me/Polyakov_AI" ><img src="resources/telegram.png" align="left"/></a>
+<a href="https://t.me/Polyakov_AI" ><img src="resources/telegram.png"/></a>
 </div>
 <div style="width: 10%; height: 35px;">
 sulfur1917@gmail.com
-<img src="resources/gmail.png" align="left"/>
+<img src="resources/gmail.png"/>
 </div>
 </div>
 <br>
