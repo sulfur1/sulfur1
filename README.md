@@ -3,8 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: center">
-Коротко о себе: Целеустремленный Java developer с более чем двухлетней учебной практикой, готовый прыгнуть в пучину Java-ого мира с головой.<br>
-Если вам нужен адекватный, въедливый и усидчивый Java разработчик, то 👋 
+Stack: Spring Boot 3.x, Lombok, Liquebase, PostgresSql, H2, Caffeine Cache, SpringDoc OpenApi 2.x, Git, Github Actions
 </div>
 <div align="center">
 Связаться со мной:
