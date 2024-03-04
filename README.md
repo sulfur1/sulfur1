@@ -3,8 +3,14 @@
   display: flex;
   align-items: center;
   justify-content: center">
-Stack: Spring Boot 3.x, Lombok, Liquebase, PostgresSql, H2, Caffeine Cache, SpringDoc OpenApi 2.x, Git, Github Actions
+<h1 style="background: #D9FFAD;
+    color: green;
+    padding: 2px">
+  Spring Boot 3.x, Lombok, Liquebase, PostgresSql, H2, Caffeine Cache, SpringDoc OpenApi 2.x, Git, Github Actions
+</h1>
 </div>
+<br>
+<br>
 <div align="center">
 Связаться со мной:
 <div style="width: 10%; height: 35px; border-inline-color: aliceblue;">
