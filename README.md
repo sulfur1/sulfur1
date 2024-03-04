@@ -11,7 +11,7 @@ Stack: Spring Boot 3.x, Lombok, Liquebase, PostgresSql, H2, Caffeine Cache, Spri
 <a href="https://t.me/Polyakov_AI" ><img src="resources/telegram.png"/></a>
 </div>
 <div style="width: 10%; height: 35px;">
-sulfur1917@gmail.com
+sulfur1917@gmail.com  
 <img src="resources/gmail.png" role="img"/>
 </div>
 </div>
