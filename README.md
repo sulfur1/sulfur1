@@ -26,17 +26,24 @@ sulfur1917@gmail.com
 My projects:
 <br>
 <br>
-<div style="border: 1px solid aliceblue;">
-<p>
-<a href="https://github.com/sulfur1/voiting-for-restaurant">Voting for restaurants / Голосование за рестораны</a>
-<p>
-Микросервис электронных продуктов в рамках проекта Customer Relationship Management (CRM) System<br>
-Java 17/21, Spring Boot 3, Project Reactor, Kafka, REST API, PostgreSQL, JPA/Hibernate, Microservices Architecture, JUnit, AssertJ, Gradle/Maven, Checkstyle, Github Actions
-</div>
-<div style="border: 1px solid aliceblue;">
 <p>
 <a href="https://github.com/sulfur1/product-service">Product service / Микросервис электронных продуктов</a>
 <p>
+<div style="border: 1px solid aliceblue;">
+<p>
+Микросервис электронных продуктов в рамках проекта Customer Relationship Management (CRM) System<br>
+<br>
+Domen: Product, Price, Discount, Duration<br>
+<br>
+Stack: Java 17/21, Spring Boot 3, Project Reactor, Kafka, REST API, PostgreSQL, JPA/Hibernate, Microservices Architecture, JUnit, AssertJ, Gradle/Maven, Checkstyle, Github Actions
+</p>
+</div>
+<br>
+<div style="border: 1px solid aliceblue;">
+<p>
+<a href="https://github.com/sulfur1/voiting-for-restaurant">Voting for restaurants / Голосование за рестораны</a>
+</p>
+<br>
 REST API приложение, реализующее систему голосования за рестораны.<br>
 Stack: JDK 20, Spring Boot 3.x, Lombok, H2, Caffeine Cache, SpringDoc OpenApi 2.x
 </div>
