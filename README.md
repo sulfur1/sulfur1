@@ -27,6 +27,20 @@ My projects:
 <br>
 <br>
 <p>
+<a href="https://github.com/sulfur1/TestTaskQeepl">Booking service / Сервис приема платежей (Тестовое Qeepl)</a>
+<p>
+<div style="border: 1px solid aliceblue;">
+<p>
+Сервис приема платежей с поддержкой бронирований, нескольких платежных провайдеров и административного интерфейса.<br>
+Проект реализован на Kotlin с использованием Spring Boot и демонстрирует работу с JWT-аутентификацией, MongoDB и фоновыми задачами.<br>
+<br>
+Domen: BookingRegistration, BookingPayment<br>
+<br>
+Stack: Kotlin, Spring Boot, Spring Security (JWT), MongoDB, Docker / Docker Compose, Swagger (OpenAPI), Spring Scheduling
+</p>
+</div>
+<br>
+<p>
 <a href="https://github.com/sulfur1/product-service">Product service / Микросервис электронных продуктов</a>
 <p>
 <div style="border: 1px solid aliceblue;">
